@@ -2,7 +2,7 @@
 #include<string.h>
 int main()
 {
-	printf("Dishitha-192211436\n");
+	printf("Vivek-192211834\n");
 	char str[100];
 	int counter=0,i;
 	printf("enter the string");
